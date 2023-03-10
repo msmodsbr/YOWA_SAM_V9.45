@@ -10,8 +10,6 @@ Base: 2.23.1.76
 ➕ Opções adicionadas para ocultar os botões Salvar e Marcar visto na página de status 
 ➕ Adicionado carregar fontes personalizadas (1- Selecione Personalizado no estilo de fonte e, em seguida, 2- use a opção Carregar fonte) 
 ➕ Opção adicionada para ocultar FAB do cortador de status ✂️ 
-➕Adicionado FMBackup (Titanium) atualizado automaticamente diariamente 
-✅ Configurações de proxy habilitadas (Configurações > Armazenamento e dados > Configurações de proxy) 
-✅ Opção de manter mensagens ativada quando o modo de desaparecimento estiver ativo (pressione e segure qualquer mensagem).",
+➕Adicionado FMBackup (Titanium) atualizado automaticamente diariamente.",
 "download":"https://youtu.be/Z5zP7QlFvzs"
 }
