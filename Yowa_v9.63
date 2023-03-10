@@ -1,6 +1,16 @@
 {
- "version":"9.63",
+ "version":"9.64",
  "title":"Atualização disponível 🛠️",
- "description":"Uma nova atualização está disponível e incluí novos emojis, opção para salvar imagens e/ou vídeos que só poderiam ser vistos uma única vez, possibilidade de filtrar apenas as mensagens envidas por um determinado contato em um grupo e outros recursos.",
-"download":"https://youtu.be/gQflIZcbYIE"
+ "description":"✔ YOWA V9.62
+
+🚨 Anti-ban aprimorado mais do que antes 
+✅ Mensagens de edição ativadas 
+⭐ Misc Outras correções e melhorias Base: 2.23.1.76 
+➕ Adicionado novo design de interface do usuário "Enviar mensagem para um número" 
+➕ Opções adicionadas para ocultar os botões Salvar e Marcar visto na página de status 
+➕ Adicionado carregar fontes personalizadas (1- Selecione "Personalizado" no estilo de fonte e, em seguida, 2- use a opção Carregar fonte) 
+➕ Opção adicionada para ocultar FAB do cortador de status ✂️ ➕Adicionado FMBackup (Titanium) atualizado automaticamente diariamente 
+✅ Configurações de proxy habilitadas (Configurações > Armazenamento e dados > Configurações de proxy) 
+✅ Opção de manter mensagens ativada quando o modo de desaparecimento estiver ativo (pressione e segure qualquer mensagem).",
+"download":"https://youtu.be/Z5zP7QlFvzs"
 }
